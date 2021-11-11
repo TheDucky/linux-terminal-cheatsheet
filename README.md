@@ -65,7 +65,7 @@ J:------------------------------------------------------------------------------
 	
 K:----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   kill <PID> - the kill command in the terminal provides the user to end system processes. usage: 'kill <PID> (Process ID)' 
+   kill (PID) - the kill command in the terminal provides the user to end system processes. usage: 'kill (PID) (Process ID)' 
 	
 L:----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ M:------------------------------------------------------------------------------
    mv - The mv command in Linux translates to 'move'. It performs two major functions in Linux:
 		You can rename a file/directory using this command.
 		You can easily move a file/directory from one location to another.
-		usage -- mv <source_directory> <target_directory>.
+		usage -- mv (source_directory) (target_directory).
 	
 N:----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ W:------------------------------------------------------------------------------
 	
 X:----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   xdg-open - this cammands is used to open files, images.etc. usage xdg-open <filename>
+   xdg-open - this cammands is used to open files, images.etc. usage xdg-open (filename)
    
 Y:----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
