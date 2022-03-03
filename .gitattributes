@@ -1,4 +1,2 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-*.txt linguist-detectable=true
-*.txt linguist-documentation=false
